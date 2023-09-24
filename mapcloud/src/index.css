@@ -1,0 +1,18 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.title{
+  display:flex;
+  justify-content:center;
+  margin-top:20px;
+  border:1px solid teal ;
+  padding:10px;
+  box-sizing:border-box;
+}
+
+.map{
+  min-height:80vh;
+  background:#eee;
+}
